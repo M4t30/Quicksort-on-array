@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_quick_sort_arr\aisd_quick_sort_arr\source.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_quick_sort_arr\aisd_quick_sort_arr\source.cpp(34): warning C4101: 'start': unreferenced local variable
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_quick_sort_arr\aisd_quick_sort_arr\source.cpp(34): warning C4101: 'stop': unreferenced local variable
+  AiSD_Quick_sort_arr.vcxproj -> D:\AGH University of Science and Technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_Quick_sort_arr\Debug\AiSD_Quick_sort_arr.exe
+  AiSD_Quick_sort_arr.vcxproj -> D:\AGH University of Science and Technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_Quick_sort_arr\Debug\AiSD_Quick_sort_arr.pdb (Partial PDB)
